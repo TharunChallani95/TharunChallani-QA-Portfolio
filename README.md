@@ -1,7 +1,7 @@
 
 # Tharun's GitHub QA Portfolio
 
-Welcome to my GitHub repository, designed to demonstrate my skills and experience as a Quality Assurance (QA) Engineer. This repository contains a comprehensive collection of my work, showcasing my approach to QA, version control, CI/CD, automation, and more.
+Welcome to my GitHub repository, designed to demonstrate my skills and experience as a Quality Assurance (QA) Engineer.I'm a QA Engineer with 9+ years of experience in automation testing (Selenium, Cypress), API testing (Postman), and performance testing (JMeter). This repository contains a comprehensive collection of my work, showcasing my approach to QA, version control, CI/CD, automation, and more.
 
 ## Table of Contents
 
