@@ -1,71 +1,71 @@
+# Tharun Challani - QA Engineer Portfolio
 
-# Tharun's GitHub QA Portfolio
+Welcome to my QA portfolio! I'm a seasoned QA Engineer with **9+ years of experience** in delivering high-quality software through manual and automated testing. I specialize in automation frameworks, API testing, and performance testing, helping businesses ensure bug-free releases for web and mobile applications.
 
-Welcome to my GitHub repository, designed to demonstrate my skills and experience as a Quality Assurance (QA) Engineer.I'm a QA Engineer with 9+ years of experience in automation testing (Selenium, Cypress), API testing (Postman), and performance testing (JMeter). This repository contains a comprehensive collection of my work, showcasing my approach to QA, version control, CI/CD, automation, and more.
+Explore my work below to see how I can add value to your projects. I'm currently **open to freelance QA opportunities**—let's connect!
 
-## Table of Contents
+## About Me
+With a strong background in Quality Assurance, I’ve worked across industries like [e.g., fintech, e-commerce, healthcare—replace with your sectors], ensuring robust software solutions. My expertise includes:
+- **Automation Testing**: Building frameworks with Selenium, Cypress, and TestNG to streamline regression testing.
+- **Manual Testing**: Designing comprehensive test cases and plans for functional, usability, and exploratory testing.
+- **API Testing**: Validating APIs with Postman and REST-assured for seamless integrations.
+- **Performance Testing**: Conducting load and stress tests with JMeter to optimize application performance.
+- **Tools & Technologies**: Jira, Confluence, Git, Jenkins, Agile/Scrum, and more.
 
-1. [Resume](#resume)
-2. [Bug Reporting](#bug-reporting)
-3. [AI-QA](#AI-QA)
-4. [CI/CD Implementation](#cicd-implementation)
-5. [Automation Coding Project](#automation-coding-project)
-6. [Docker](#docker)
-7. [Version Control](#version-control)
+I’m passionate about catching critical bugs early and improving development cycles through Shift-Left testing and CI/CD integration.
 
-## Resume
+## Featured Projects
+Here are some highlights of my QA work (anonymized to comply with NDAs):
 
-You can find my resume in this repository, providing a detailed overview of my work history, skills, and experience.
+### 1. E-commerce Web App Testing
+- **Description**: Developed and executed 200+ automated test scripts using Selenium and Java for a high-traffic e-commerce platform, covering checkout, payment, and user flows.
+- **Tools**: Selenium, TestNG, Jira, Jenkins.
+- **Outcome**: Reduced regression testing time by 40% and improved defect detection by 30%.
+- **Artifacts**: [View Automation Scripts](Automation/Ecommerce_Tests/) | [Sample Test Cases](Test_Cases/Ecommerce_TestCases.pdf)
 
-[View My Resume](./resume.md)  <!-- Or link to a PDF: ./Resume.pdf -->
+### 2. API Testing for Fintech Platform
+- **Description**: Validated RESTful APIs for a payment processing system using Postman and REST-assured, ensuring secure and reliable transactions.
+- **Tools**: Postman, REST-assured, Swagger, Jira.
+- **Outcome**: Identified and resolved 15+ critical API bugs, achieving 100% endpoint coverage.
+- **Artifacts**: [Postman Collection](Automation/API_Tests/) | [Bug Report](Bug_Reports/Fintech_API_Bugs.pdf)
 
-## Bug Reporting 
+### 3. Performance Testing for Mobile App
+- **Description**: Conducted load and stress tests using JMeter for a mobile banking app, simulating 10,000 concurrent users.
+- **Tools**: JMeter, BlazeMeter, Confluence.
+- **Outcome**: Optimized app performance, reducing response time by 25%.
+- **Artifacts**: [JMeter Results](Performance_Tests/MobileApp_JMeter.pdf)
 
-In this section, I demonstrate my approach to bug reporting using GitHub’s issue tracking feature. You will find a detailed bug report template as well as examples of filled-out reports.
+*Note*: Due to NDAs, some details are generalized. Contact me for a live demo or discussion!
 
-- [GitHub Issues Example](https://github.com/bennhub/GitHub-QA-Portfolio/issues/1).
-- [Sample Bug Report](./Bug-Reporting/Sample-Bug-Report.md)
-- [Bug Report Template](./Bug-Reporting/Template.md)
-  
+## Skills
+- **Testing Tools**: Selenium, Cypress, Postman, REST-assured, JMeter, Appium, TestNG, Cucumber.
+- **Bug Tracking & Collaboration**: Jira, Confluence, Trello, Slack.
+- **Programming**: Java, Python, JavaScript.
+- **Methodologies**: Agile, Scrum, DevOps, TDD, BDD.
+- **Certifications**: [e.g., ISTQB Foundation Level, AWS Certified Developer—replace with yours or remove if none].
 
-## Version Control
+## Repository Structure
+- **Automation/**: Sample automation scripts (e.g., Selenium, Cypress).
+- **Test_Cases/**: Example test cases and plans in PDF or Markdown.
+- **Bug_Reports/**: Anonymized bug reports from past projects.
+- **Performance_Tests/**: Performance test results and scripts.
 
-This section showcases my use of GitHub for version control, including the creation and management of branches, pull requests, and merges. You can explore the following:
+## Get in Touch
+I’m available for freelance QA projects, from short-term gigs to long-term retainers. Let’s discuss how I can help your team deliver quality software!
 
-- Branches and pull requests demonstrating a typical GitHub workflow.
-- Documentation on how I approach version control.
+- **Email**: [your.email@example.com]
+- **LinkedIn**: [linkedin.com/in/yourprofile]
+- **Portfolio**: [yourportfolio.wixsite.com or yourusername.github.io/TharunChallani-QA-Portfolio]
+- **Calendly**: [calendly.com/yourname] for quick calls
 
-[View Version Control Details](./Version-Control/VC-Documentation.md)
+Check out my full portfolio site: [yourportfolio.wixsite.com]  
+View my resume: [Resume.pdf](Resume.pdf)
 
-## CI/CD Implementation
+## How to Run My Automation Scripts
+1. Clone this repo: `git clone https://github.com/TharunChallani95/TharunChallani-QA-Portfolio.git`
+2. Navigate to `Automation/` folder.
+3. Follow setup instructions in each script’s README (e.g., install Selenium, Java).
 
-Here, I detail how I set up continuous integration and continuous deployment (CI/CD) pipelines using GitHub Actions. This section includes:
+Thanks for visiting! I look forward to collaborating on your next project.
 
-- [GitHub Actions workflow](https://github.com/bennhub/GitHub-QA-Portfolio/actions) 
-- [Documentation on my CI/CD setup](./CI-CD/CI-CD-Documentation.md)
-
-## Automation Coding Project
-
-This is a practical project where I apply automation to solve real-world problems. You can review the code, run the tests, and see the results.
-
- - [Automation Project](https://github.com/bennhub/GitHub-QA-Portfolio/tree/main/Automation-Project) 
- - [Automation Project README](./Automation-Project/Automation-Demo.md)
-
-## Docker
-
-This is a practical project where I utilize Docker to run Playwright scripts in a containerized environment. Docker ensures that the scripts run consistently across different environments, which is especially useful for automated browser testing.
-
- - [Docker Project](https://github.com/bennhub/GitHub-QA-Portfolio/tree/main/Docker) 
- - [Docker README](./Docker/Playwright-Docker-Demo.md) 
-
-## AI-QA 
-**in progress..**
-Check out my latest project using Google Gemini AI to assist in creating test cases. This showcases how I integrate advanced AI tools into the QA process.
-
- - [AI-QA Project](https://github.com/bennhub/GitHub-QA-Portfolio/tree/main/AI-QA%20Projects)
- - [AI-QA README](https://github.com/bennhub/GitHub-QA-Portfolio/blob/main/AI-QA%20Projects/README.md) 
-
-
----
-
-Feel free to explore the repository and review the various sections to get a comprehensive view of my QA engineering skills and practices. If you have any questions or need further information, don’t hesitate to reach out!
+*Last updated: May 2025*
