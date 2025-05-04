@@ -14,9 +14,9 @@ Explore my work to see how I can help your team achieve quality results. I’m c
 - **[View My Full Portfolio](README.md)**: Detailed projects, skills, and contact info.
 
 ## Contact Me
-- **Email**: tharunchallani@gmail.com
-- **LinkedIn**: www.linkedin.com/in/tharunchallani
-- **Calendly**: calendly.com/tharunchallani
+- **Email**: [tharunchallani@gmail.com](mailto:tharunchallani@gmail.com)
+- **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/in/tharunchallani/)
+- **Calendly**: [Schedule a Call](https://calendly.com/tarunchallani/30min)
 
 Thanks for visiting! I look forward to collaborating on your next project.
 
