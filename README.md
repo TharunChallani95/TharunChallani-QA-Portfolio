@@ -53,10 +53,10 @@ Here are some highlights of my QA work (anonymized to comply with NDAs):
 ## Get in Touch
 I’m available for freelance QA projects, from short-term gigs to long-term retainers. Let’s discuss how I can help your team deliver quality software!
 
-- **Email**: [tharunchallani@gmail.com]
-- **LinkedIn**: [[linkedin.com/in/yourprofile](https://www.linkedin.com/in/tharunchallani/)]
-- **Portfolio**: [[yourportfolio.wixsite.com or yourusername.github.io/TharunChallani-QA-Portfolio](https://github.com/TharunChallani95/TharunChallani-QA-Portfolio/tree/main)]
-- **Calendly**: [calendly.com/tharunchallani] for quick calls
+- **Email**: tharun.challani@example.com  # Replace with your real email
+- **LinkedIn**: linkedin.com/in/tharunchallani  # Replace with your real LinkedIn URL
+- **Portfolio**: https://tharunchallani95.github.io/TharunChallani-QA-Portfolio
+- **Calendly**: calendly.com/tharunchallani  # Replace or remove if not applicable
 
 Check out my full portfolio site: [yourportfolio.wixsite.com]  
 View my resume: [Resume.pdf](Resume.pdf)

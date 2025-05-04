@@ -8,8 +8,9 @@ Explore my work to see how I can help your team achieve quality results. I’m c
 - **[View My Full Portfolio](README.md)**: Detailed projects, skills, and contact info.
 
 ## Contact Me
-- **Email**: [tharunchallani@gmail.com]
-- **LinkedIn**: [[linkedin.com/in/](https://www.linkedin.com/in/tharunchallani/)]
+- **Email**: tharun.challani@example.com  # Replace with your real email
+- **LinkedIn**: linkedin.com/in/tharunchallani  # Replace with your real LinkedIn URL
+- **Calendly**: calendly.com/tharunchallani  # Replace or remove if not applicable
 
 Thanks for visiting! I look forward to collaborating on your next project.
 
