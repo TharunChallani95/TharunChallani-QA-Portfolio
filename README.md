@@ -15,25 +15,17 @@ With a strong background in Quality Assurance, I’ve worked across industries l
 I’m passionate about catching critical bugs early and improving development cycles through Shift-Left testing and CI/CD integration.
 
 ## Featured Projects
-Here are some highlights of my QA work (anonymized to comply with NDAs):
+### 1. Healthcare App Automation
+- **Description**: Automated end-to-end testing for a patient management system, creating 300+ test scripts using Selenium and Java to validate appointment booking and user authentication.
+- **Tools**: Selenium, Java, TestNG, Jira, Jenkins.
+- **Outcome**: Reduced regression testing time by 50% and caught 20+ critical bugs pre-release.
+- **Artifacts**: [View Automation Scripts](Automation/login_test.java) | [Sample Test Cases](Test_Cases/healthcare_test_cases.pdf)
 
-### 1. E-commerce Web App Testing
-- **Description**: Developed and executed 200+ automated test scripts using Selenium and Java for a high-traffic e-commerce platform, covering checkout, payment, and user flows.
-- **Tools**: Selenium, TestNG, Jira, Jenkins.
-- **Outcome**: Reduced regression testing time by 40% and improved defect detection by 30%.
-- **Artifacts**: [View Automation Scripts](Automation/Ecommerce_Tests/) | [Sample Test Cases](Test_Cases/Ecommerce_TestCases.pdf)
-
-### 2. API Testing for Fintech Platform
-- **Description**: Validated RESTful APIs for a payment processing system using Postman and REST-assured, ensuring secure and reliable transactions.
+### 2. API Testing for E-commerce Platform
+- **Description**: Validated REST APIs for a product catalog system using Postman, ensuring accurate inventory updates across 500+ endpoints.
 - **Tools**: Postman, REST-assured, Swagger, Jira.
-- **Outcome**: Identified and resolved 15+ critical API bugs, achieving 100% endpoint coverage.
-- **Artifacts**: [Postman Collection](Automation/API_Tests/) | [Bug Report](Bug_Reports/Fintech_API_Bugs.pdf)
-
-### 3. Performance Testing for Mobile App
-- **Description**: Conducted load and stress tests using JMeter for a mobile banking app, simulating 10,000 concurrent users.
-- **Tools**: JMeter, BlazeMeter, Confluence.
-- **Outcome**: Optimized app performance, reducing response time by 25%.
-- **Artifacts**: [JMeter Results](Performance_Tests/MobileApp_JMeter.pdf)
+- **Outcome**: Achieved 98% API test coverage and resolved 15 integration issues.
+<!-- - **Artifacts**: [Postman Collection](Automation/api_tests.json) | [Bug Report](Bug_Reports/ecommerce_api_bugs.pdf) -->
 
 *Note*: Due to NDAs, some details are generalized. Contact me for a live demo or discussion!
 
@@ -53,13 +45,13 @@ Here are some highlights of my QA work (anonymized to comply with NDAs):
 ## Get in Touch
 I’m available for freelance QA projects, from short-term gigs to long-term retainers. Let’s discuss how I can help your team deliver quality software!
 
-- **Email**: tharun.challani@example.com  # Replace with your real email
+- **Email**: tharunchallani@gmail.com  # Replace with your real email
 - **LinkedIn**: linkedin.com/in/tharunchallani  # Replace with your real LinkedIn URL
 - **Portfolio**: https://tharunchallani95.github.io/TharunChallani-QA-Portfolio
 - **Calendly**: calendly.com/tharunchallani  # Replace or remove if not applicable
 
-Check out my full portfolio site: [yourportfolio.wixsite.com]  
-View my resume: [Resume.pdf](Resume.pdf)
+<!-- Check out my full portfolio site: [yourportfolio.wixsite.com]  
+View my resume: [Resume.pdf](Resume.pdf) -->
 
 ## How to Run My Automation Scripts
 1. Clone this repo: `git clone https://github.com/TharunChallani95/TharunChallani-QA-Portfolio.git`
@@ -67,5 +59,11 @@ View my resume: [Resume.pdf](Resume.pdf)
 3. Follow setup instructions in each script’s README (e.g., install Selenium, Java).
 
 Thanks for visiting! I look forward to collaborating on your next project.
+
+
+
+
+
+
 
 *Last updated: May 2025*
