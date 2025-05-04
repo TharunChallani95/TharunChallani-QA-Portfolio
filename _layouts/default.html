@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="UTF-8">
+    <title>{{ page.title | default: site.title }}</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#157878">
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+  </head>
+  <body>
+    <section class="page-header">
+        <h1 class="project-name">{{ site.title | default: "Tharun Challani's QA Portfolio" }}</h1>
+        <h2 class="project-tagline">{{ site.description | default: "Freelance QA Engineer with 9+ Years of Experience" }}</h2>
+        <nav class="header-nav">
+          <a href="{{ site.baseurl }}/" class="btn">Home</a>
+          <a href="{{ site.baseurl }}/README.html" class="btn">Portfolio</a>
+          <a href="#contact-me" class="btn">Contact</a>
+        </nav>
+      </section>
+
+    <section class="main-content">
+      {{ content }}
+
+      <footer class="site-footer">
+        <span class="site-footer-owner">© 2025 Tharun Challani | Freelance QA Engineer</span>
+        <div class="footer-nav">
+          <a href="{{ site.baseurl }}/" class="btn">Home</a>
+          <a href="{{ site.baseurl }}/README.html" class="btn">Portfolio</a>
+          <a href="#contact-me" class="btn">Contact</a>
+        </div>
+      </footer>
+    </section>
+  </body>
+</html>
