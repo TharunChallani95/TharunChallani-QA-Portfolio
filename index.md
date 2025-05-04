@@ -1,12 +1,7 @@
-## Navigation
-- [Home](index.md)
-- [Portfolio](README.md)
-- [Contact](#contact-me)
-
 # Welcome to Tharun Challani’s QA Portfolio
 <img src="images/profile.jpg" alt="Tharun Challani" style="float:left; margin-right:20px;" width="150">
 
-Hi! I’m a QA Engineer with 9+ years of experience in automation and manual testing. I specialize in delivering bug-free software for web and mobile applications through tools like Selenium, Cypress, Postman, and JMeter.
+Hi! I’m a Senior QA Engineer with 9+ years of experience in automation and manual testing. I specialize in delivering bug-free software for web and mobile applications through tools like Selenium, Cypress, Postman, and JMeter.
 
 Explore my work to see how I can help your team achieve quality results. I’m currently **open to freelance QA projects**—let’s connect!
 
