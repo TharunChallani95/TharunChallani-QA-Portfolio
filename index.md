@@ -11,7 +11,7 @@ Explore my work to see how I can help your team achieve quality results. I’m c
 ## Contact Me
 - **Email**: [tharunchallani@gmail.com](mailto:tharunchallani@gmail.com)
 - **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/in/tharunchallani/)
-- **Calendly**: [Schedule a Call](https://calendly.com/tarunchallani/30min)
+- **Calendly**: [Schedule a Call](https://calendly.com/tarunchallani)
 
 Thanks for visiting! I look forward to collaborating on your next project.
 
