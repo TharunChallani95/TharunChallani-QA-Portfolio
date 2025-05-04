@@ -45,13 +45,13 @@ I’m passionate about catching critical bugs early and improving development cy
 ## Get in Touch
 I’m available for freelance QA projects, from short-term gigs to long-term retainers. Let’s discuss how I can help your team deliver quality software!
 
-- **Email**: tharunchallani@gmail.com  # Replace with your real email
-- **LinkedIn**: linkedin.com/in/tharunchallani  # Replace with your real LinkedIn URL
+- **Email**: tharunchallani@gmail.com
+- **LinkedIn**: www.linkedin.com/in/tharunchallani
 - **Portfolio**: https://tharunchallani95.github.io/TharunChallani-QA-Portfolio
-- **Calendly**: calendly.com/tharunchallani  # Replace or remove if not applicable
+- **Calendly**: calendly.com/tharunchallani
 
-<!-- Check out my full portfolio site: [yourportfolio.wixsite.com]  
-View my resume: [Resume.pdf](Resume.pdf) -->
+Check out my full portfolio site: [yourportfolio.wixsite.com]  
+View my resume: [Resume.pdf](Resume.pdf)
 
 ## How to Run My Automation Scripts
 1. Clone this repo: `git clone https://github.com/TharunChallani95/TharunChallani-QA-Portfolio.git`
