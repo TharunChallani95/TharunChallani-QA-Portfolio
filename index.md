@@ -5,6 +5,9 @@ Hi! I’m a Senior QA Engineer with 9+ years of experience in automation and man
 
 Explore my work to see how I can help your team achieve quality results. I’m currently **open to freelance QA projects**—let’s connect!
 
+## Ready to Work Together?
+I’m available for freelance QA projects to help your team deliver bug-free software. [Contact me today](#contact-me) to discuss your needs!
+
 ## Quick Links
 - **[View My Full Portfolio](README.md)**: Detailed projects, skills, and contact info.
 
