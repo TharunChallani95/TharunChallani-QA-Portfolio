@@ -43,3 +43,25 @@
     margin-bottom: 20px;
     padding-left: 20px;
   }
+/* Mobile adjustments */
+@media (max-width: 768px) {
+  .page-header {
+    padding: 20px;
+  }
+  .header-nav .btn {
+    display: block;
+    margin: 10px 0;
+  }
+  .main-content img {
+    float: none;
+    display: block;
+    margin: 0 auto 20px;
+  }
+  .site-footer {
+    text-align: center;
+  }
+  .footer-nav .btn {
+    display: block;
+    margin: 10px 0;
+  }
+}
